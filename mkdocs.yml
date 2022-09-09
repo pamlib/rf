@@ -21,6 +21,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Lore: lore/index.md
 
 markdown_extensions:
   - admonition
