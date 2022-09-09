@@ -7,7 +7,7 @@
 <div class="unmargined">
 <p>WARNING: THE DATABASE IS</p>
 </div>
-<div class="unmargined" style="font-size: 400%; font-weight: bold; margin: 2px 0 5px;">
+<div class="unmargined" style="font-size: 200%; font-weight: bold; margin: 2px 0 5px;">
 <p>CLASSIFIED</p>
 </div>
 <div class="unmargined">
