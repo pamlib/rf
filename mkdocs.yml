@@ -22,7 +22,8 @@ theme:
 nav:
   - Home: index.md
   - Start: start/index.md
-  - Lore: lore/index.md
+    - Super Companies: start/supercompanies/index.md
+    - Lore: lore/index.md
 
 markdown_extensions:
   - admonition
