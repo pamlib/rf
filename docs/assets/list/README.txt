@@ -1,9 +1,12 @@
 Home
 
+Start
+
+Research
+  Entities
+  Buildings
+
 Lore
-
-Entities
-
-Buildings
-
-Stories
+  Home
+  Super Companies
+  Stories
