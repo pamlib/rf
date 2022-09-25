@@ -11,4 +11,4 @@ An American super company that works on efficiently creating reusable energy.
 A German super company that manufactures powerful weapons.
 
 ## Amania Research
-A Brazilian super company that focuses on creating rooms that are bigger on the inside for storage and building purposes.
+A Brazilian super company that focuses on using portals to create infinitely sized rooms for storage and building purposes.
