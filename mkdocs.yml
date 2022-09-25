@@ -21,7 +21,8 @@ theme:
 
 nav:
   - Home: index.md
-  - Start: start/index.md
+  - Start:
+    - New Hire: start/index.md
     - Super Companies: start/supercompanies/index.md
     - Lore: lore/index.md
 
