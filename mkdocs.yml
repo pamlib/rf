@@ -21,6 +21,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Start: start/index.md
   - Lore: lore/index.md
 
 markdown_extensions:
