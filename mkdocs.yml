@@ -23,8 +23,9 @@ nav:
   - Home: index.md
   - Start:
     - New Hire: start/index.md
-    - Super Companies: start/supercompanies/index.md
-    - Lore: lore/index.md
+  - Lore:
+    - Home: lore/index.md
+    - Super Companies: lore/supercompanies/index.md
 
 markdown_extensions:
   - admonition
